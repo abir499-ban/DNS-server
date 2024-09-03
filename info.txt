@@ -1,0 +1,9 @@
+actually the decoded msg.questions would be like:
+{
+    questions:[{name:'username.com', type:'A', class:'IN'}]
+}
+
+and remoteInfo would be like:
+{
+    remoteInfo :{address : '12.32.2.3', family : 'IPv4', port : 5463, size : 43}
+}
